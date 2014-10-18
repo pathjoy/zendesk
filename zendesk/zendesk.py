@@ -39,6 +39,7 @@ V2_COLLECTION_PARAMS = [
     'page',
     'per_page',
     'sort_order',
+    'sort_by',
 ]
 
 
